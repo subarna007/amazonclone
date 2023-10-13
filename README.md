@@ -1,1 +1,2 @@
-# amazonclone learned from yt channel apna collge
+# amazonclone 
+learned from yt channel apna collge
